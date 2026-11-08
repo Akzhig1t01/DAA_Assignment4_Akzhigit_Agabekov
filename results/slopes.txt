@@ -1,0 +1,8 @@
+recursive disjoint growth per char (n=12->13): 5.60
+edit time table random (n >= 1000): slope 1.99
+edit time two_rows random (n >= 1000): slope 2.05
+naive worst comparisons vs m: slope 1.00
+search time naive worst: slope 0.48
+search time kmp worst: slope 0.36
+search time naive allmatch: slope 0.41
+search time kmp allmatch: slope 0.78
